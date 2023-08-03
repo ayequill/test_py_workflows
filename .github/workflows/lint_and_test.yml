@@ -10,7 +10,7 @@ on:
       - main
       - dev
 jobs:
-  Lint and Test:
+  LintTest:
     name: Linting
     runs-on: ubuntu-20.04
 
