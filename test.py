@@ -1,8 +1,9 @@
+"""This module is a test module"""
 unused_var = 90
 
 
 def print_num():
-    """dunc"""
+    """This is a test function"""
     print(unused_var)
 
 
